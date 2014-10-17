@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[psc:home|Door43 (psc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-psc|d43-psc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-psc/archive/master.zip|d43-psc.zip]]
+
+**Recent Changes**
+{{changes>ns = psc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/psc|Ethnologue data]]
+
